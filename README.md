@@ -2,6 +2,9 @@
 For Voidstraps built in-Roblox Revival system, plan to just make Voidstrap more fun.
 Roblox clients (2007 to 2013) and the local client server used by Voidstrap.
 
+This includes everything webserver, and more entirely, 
+and downloads to Voidstrap Client later on
+
 ## Layout
 
 - `engine.zip` : the local client server binaries plus shared assets (what voidstrap itself uses)
