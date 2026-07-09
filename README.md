@@ -9,3 +9,5 @@ Roblox clients (2007 to 2013) and the local client server used by Voidstrap.
 - `maps.zip` : base maps, for all clients of roblox
 - `clients/<version>.zip` : one archive per client version
 - `manifest.json` : index of everything with sizes
+
+ Not affiliated with Roblox Corp, just a simple Roblox Revival for Voidstrap.
