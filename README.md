@@ -10,4 +10,13 @@ Roblox clients (2007 to 2013) and the local client server used by Voidstrap.
 - `clients/<version>.zip` : one archive per client version
 - `manifest.json` : index of everything with sizes
 
+## Sources
+ORRH, Novetus.
+Pre-Patched, and extra safe thanks to the creators of these legendary projects.
+
+ORRH: https://onlyretrorobloxhere.itch.io/orrh
+Novetus: https://bitl.itch.io/novetus
+
+---
+
  Not affiliated with Roblox Corp, just a simple Roblox Revival for Voidstrap.
