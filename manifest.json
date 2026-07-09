@@ -1,0 +1,206 @@
+{
+  "engine": "engine.zip",
+  "maps": "maps.zip",
+  "clients": [
+    {
+      "code": "2007E",
+      "name": "March 2007",
+      "description": "The earliest available Roblox client. A very primitive version of Roblox, lacking most of the features that can be seen in the present client.",
+      "hasStudio": true,
+      "file": "clients/2007E.zip",
+      "size": 5712801,
+      "helperRenamed": true
+    },
+    {
+      "code": "2007E-FakeFeb",
+      "name": "Fake February 2007",
+      "description": "A recreation of the February 2007 Roblox client using the March 2007 Roblox client as a base. Restores Color3 teams, the Eras Bold ITC font, the restrictive character customization, and other removed functionality.",
+      "hasStudio": true,
+      "file": "clients/2007E-FakeFeb.zip",
+      "size": 6550880,
+      "helperRenamed": true
+    },
+    {
+      "code": "2007L",
+      "name": "December 2007",
+      "description": "Introduces a new graphical look to Roblox using the OGRE rendering engine. Introduces bevels, seen in many old clients. Enabling bevels and shadows yields hilarious and chaotic results ;).",
+      "hasStudio": true,
+      "file": "clients/2007L.zip",
+      "size": 8335156,
+      "helperRenamed": true
+    },
+    {
+      "code": "2007M",
+      "name": "August 2007",
+      "description": "Wearable hats have been introduced and the chat bar color has changed from white to gray.",
+      "hasStudio": true,
+      "file": "clients/2007M.zip",
+      "size": 5509424,
+      "helperRenamed": true
+    },
+    {
+      "code": "2008E",
+      "name": "April 2008",
+      "description": "Adds in sparkles and the new explosion effect, powered by OGRE's particle system.",
+      "hasStudio": true,
+      "file": "clients/2008E.zip",
+      "size": 8394827,
+      "helperRenamed": true
+    },
+    {
+      "code": "2008L",
+      "name": "December 2008",
+      "description": "Begone server sided movement! Moving around feels so much better here. Heads and faces have been added. The very first faces would be uploaded the next year.",
+      "hasStudio": true,
+      "file": "clients/2008L.zip",
+      "size": 9371248,
+      "helperRenamed": true
+    },
+    {
+      "code": "2008M",
+      "name": "August 2008",
+      "description": "Roblox brings you Shirts... and Pants! They also brought you walk speed and team chat! (pro tip: start your messages with '%' to team chat).",
+      "hasStudio": true,
+      "file": "clients/2008M.zip",
+      "size": 8130430,
+      "helperRenamed": true
+    },
+    {
+      "code": "2009E",
+      "name": "March 2009",
+      "description": "Replaces the circle, Lego-inspired studs with new square studs. This version features a short-lived variant of the square studs, which lacks the branding (R) normally seen with them, replaced later in the month.",
+      "hasStudio": true,
+      "file": "clients/2009E.zip",
+      "size": 11118452,
+      "helperRenamed": true
+    },
+    {
+      "code": "2009L",
+      "name": "October 2009",
+      "description": "The players asked and the developers delivered. GUIs were introduced but in a very barebones state, only allowing minimal customizability. Badges have been added, allowing players to collect badges that appear on their profile.",
+      "hasStudio": true,
+      "file": "clients/2009L.zip",
+      "size": 16884691,
+      "helperRenamed": true
+    },
+    {
+      "code": "2009M",
+      "name": "July 2009",
+      "description": "Contains the familiar square studs used for the next couple of years. Adds in 31 new brick colors for more variety to builds. A new default sky is introduced to replace the low quality version used previously.",
+      "hasStudio": true,
+      "file": "clients/2009M.zip",
+      "size": 13992677,
+      "helperRenamed": true
+    },
+    {
+      "code": "2010E",
+      "name": "February 2010",
+      "description": "The Arial font was introduced to replace the original Comic Sans font. A new Lua health bar replaced the previous one.",
+      "hasStudio": true,
+      "file": "clients/2010E.zip",
+      "size": 14769099,
+      "helperRenamed": true
+    },
+    {
+      "code": "2010L",
+      "name": "December 2010",
+      "description": "Introduces a user interface overhaul teased earlier in the year, powered by the Lua script language. Data persistence has been introduced, allowing games to save and load player data. To showcase data persistence, Roblox released the game 'Blazing Man', later renamed to 'Welcome to Roblox Building'.",
+      "hasStudio": true,
+      "file": "clients/2010L.zip",
+      "size": 16477801,
+      "helperRenamed": true
+    },
+    {
+      "code": "2010M",
+      "name": "July 2010",
+      "description": "Packages have been added. That is all.",
+      "hasStudio": true,
+      "file": "clients/2010M.zip",
+      "size": 15872106,
+      "helperRenamed": true
+    },
+    {
+      "code": "2011E",
+      "name": "April 2011",
+      "description": "Added the ability to record videos in the best quality imaginable. Also introduced an experimental player list powered by Lua, only visible in Welcome to Roblox Building and Play Solo. Adds in the menu, allowing you to use an early form of shift lock and soon-to-be removed camera options.",
+      "hasStudio": true,
+      "file": "clients/2011E.zip",
+      "size": 15695692,
+      "helperRenamed": true
+    },
+    {
+      "code": "2011L",
+      "name": "October 2011",
+      "description": "Introduces voxel terrain, allowing developers to place and manipulate millions of terrain voxels with minimal performance hits.",
+      "hasStudio": true,
+      "file": "clients/2011L.zip",
+      "size": 18968354,
+      "helperRenamed": true
+    },
+    {
+      "code": "2011M",
+      "name": "July 2011",
+      "description": "Introduces the new player list and backpack, powered by Lua. Also overhauls the previous menu.",
+      "hasStudio": true,
+      "file": "clients/2011M.zip",
+      "size": 17465190,
+      "helperRenamed": true
+    },
+    {
+      "code": "2012E",
+      "name": "March 2012",
+      "description": "Removed the clicking noise that would have played when zooming your camera.",
+      "hasStudio": true,
+      "file": "clients/2012E.zip",
+      "size": 19946533,
+      "helperRenamed": false
+    },
+    {
+      "code": "2012L",
+      "name": "October 2012",
+      "description": "They moved the shift lock button. For this version only.",
+      "hasStudio": true,
+      "file": "clients/2012L.zip",
+      "size": 38746432,
+      "helperRenamed": false
+    },
+    {
+      "code": "2012M",
+      "name": "August 2012",
+      "description": "Water has been added to the available terrain materials.",
+      "hasStudio": true,
+      "file": "clients/2012M.zip",
+      "size": 40635581,
+      "helperRenamed": false
+    },
+    {
+      "code": "2013E",
+      "name": "March 2013",
+      "description": "Introduces an overhaul to the player list, backpack and chat.",
+      "hasStudio": true,
+      "file": "clients/2013E.zip",
+      "size": 50166681,
+      "helperRenamed": false
+    },
+    {
+      "code": "2013L",
+      "name": "December 2013",
+      "description": "Materials are replaced with more high quality and realistic counterparts. Another new sky is introduced. New animations were introduced using the animation system.",
+      "hasStudio": true,
+      "file": "clients/2013L.zip",
+      "size": 96451113,
+      "helperRenamed": false
+    },
+    {
+      "code": "2013M",
+      "name": "August 2013",
+      "description": "Introduces dynamic lighting, introducing players to more exciting environments. Bevels are removed on all parts but the player characters. A lua-powered chat bar, previously only seen on Mac clients, is introduced to Windows clients. Jump delay is removed.",
+      "hasStudio": true,
+      "file": "clients/2013M.zip",
+      "size": 45108183,
+      "helperRenamed": false
+    }
+  ],
+  "engineSize": 357905112,
+  "mapsSize": 14632820
+}
