@@ -1,5 +1,5 @@
 # RobloxClients
-
+For Voidstraps built in-Roblox Revival system, plan to just make Voidstrap more fun.
 Roblox clients (2007 to 2013) and the local client server used by Voidstrap.
 
 ## Layout
